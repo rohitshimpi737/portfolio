@@ -10,13 +10,13 @@
     }
   },
   {
-    "name": "SilentSync - AI",
-    "desc": "The goal of this website is to encourage human-machine dialogue in order to determine the sentence and decide how to respond to the question.",
-    "image": "Home",
+    "name": "Portfolio",
+    "desc": "This is my Portfolio Website",
+    "image": "Portfolio",
     "category": "web",
     "links": {
-      "view": "",
-      "code": "https://github.com/Khaire7031/SilentSync-AI"
+      "view": "https://rohitshimpi737.github.io/portfolio/",
+      "code": "https://github.com/rohitshimpi737/portfolio"
     }
   },
   {
@@ -27,16 +27,6 @@
     "links": {
       "view": "",
       "code": "https://github.com/Khaire7031/ECommerce-Website"
-    }
-  },
-  {
-    "name": "Climate Impact on Grapes",
-    "desc": "",
-    "image": "Grapes",
-    "category": "Machine Learning",
-    "links": {
-      "view": "",
-      "code": "https://github.com/Khaire7031/Climate-Change-Impact-on-Grapes"
     }
   },
   {
