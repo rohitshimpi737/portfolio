@@ -1,0 +1,16 @@
+ {
+    "name": "TailwindCSS",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+  },
+  {
+    "name": "Firebase",
+    "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+  },
+  {
+    "name": "AWS",
+    "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+  },
+  {
+    "name": "Docker",
+    "icon": "https://img.icons8.com/color/48/000000/docker.png"
+  }

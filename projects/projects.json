@@ -1,0 +1,63 @@
+[
+  {
+    "name": "EduVista",
+    "desc": "It's an e-learning platform designed to provide users with a seamless online education experience using SpringBoot.",
+    "image": "EduVista",
+    "category": "Spring Boot",
+    "links": {
+      "view": "",
+      "code": "https://github.com/rohitshimpi737/EduVista--School-Administration-System"
+    }
+  },
+  {
+    "name": "SilentSync - AI",
+    "desc": "The goal of this website is to encourage human-machine dialogue in order to determine the sentence and decide how to respond to the question.",
+    "image": "Home",
+    "category": "web",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Khaire7031/SilentSync-AI"
+    }
+  },
+  {
+    "name": "E Commerse Website",
+    "desc": "Analyzed and developed an E-commerce application with 1000+ products with different categories such Entertainment , Mobile , Laptops etc .",
+    "image": "Ecommerce",
+    "category": "web",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Khaire7031/ECommerce-Website"
+    }
+  },
+  {
+    "name": "Climate Impact on Grapes",
+    "desc": "",
+    "image": "Grapes",
+    "category": "Machine Learning",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Khaire7031/Climate-Change-Impact-on-Grapes"
+    }
+  },
+  {
+    "name": "Movie Recommendation System",
+    "desc": "The Movie Recommendation System uses a collaborative filtering technique to find similarities between movies and provides recommendations accordingly. ",
+    "image": "Movie",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Khaire7031/Movie-Recommendation-System"
+    }
+  },
+
+  {
+    "name": "Spotify Clone",
+    "desc": "DEVELOPED A RESPONSIVE SPOTIFY-LIKE MUSIC STREAMING WEBSITE USING HTML,CSS, AND JAVASCRIPT, FEATURING PLAYLISTS, AND A USER-FRIENDLY INTERFACE.",
+    "image": "spotify-clone",
+    "category": "mern",
+    "links": {
+      "view": "https://spotifyrohit737.freewebhostmost.com/",
+      "code": "https://github.com/rohitshimpi737/spotify-clone"
+    }
+  }
+]

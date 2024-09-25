@@ -1,0 +1,15 @@
+Skills
+
+{
+    "name": "Sass",
+    "icon": "https://img.icons8.com/color/48/000000/sass.png"
+},
+{
+    "name": "Lambda",
+    "icon": "https://img.icons8.com/color/48/null/awslambda.png"
+} 
+
+
+
+Ecommerce 
+"view": "https://mobisale.vercel.app/",
