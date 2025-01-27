@@ -20,27 +20,6 @@
     }
   },
   {
-    "name": "E Commerse Website",
-    "desc": "Analyzed and developed an E-commerce application with 1000+ products with different categories such Entertainment , Mobile , Laptops etc .",
-    "image": "Ecommerce",
-    "category": "web",
-    "links": {
-      "view": "",
-      "code": "https://github.com/Khaire7031/ECommerce-Website"
-    }
-  },
-  {
-    "name": "Movie Recommendation System",
-    "desc": "The Movie Recommendation System uses a collaborative filtering technique to find similarities between movies and provides recommendations accordingly. ",
-    "image": "Movie",
-    "category": "mern",
-    "links": {
-      "view": "",
-      "code": "https://github.com/Khaire7031/Movie-Recommendation-System"
-    }
-  },
-
-  {
     "name": "Spotify Clone",
     "desc": "DEVELOPED A RESPONSIVE SPOTIFY-LIKE MUSIC STREAMING WEBSITE USING HTML,CSS, AND JAVASCRIPT, FEATURING PLAYLISTS, AND A USER-FRIENDLY INTERFACE.",
     "image": "spotify-clone",
